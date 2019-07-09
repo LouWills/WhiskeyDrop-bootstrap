@@ -1,3 +1,9 @@
 # Introduction to Bootstrap
 
-A set of exercises and examples for Bootstrap.
+### Whiskey Drop 
+
+Whiskey drop is a made up subscription service that delivers whiskeys to your door on a monthly basis.
+
+Made using bootstrap components and grid system.
+
+
