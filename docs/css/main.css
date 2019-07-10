@@ -45,6 +45,10 @@ body {
     background-color: #f05f40;
 }
 
+.block-divider--black {
+    background-color: #292929;
+}
+
 .block-divider--short {
     width: 35px;
 }
@@ -94,4 +98,15 @@ body {
     color: white;
     background-color: #df4929;
     border-color: #df4929;
+}
+
+/*Features section*/
+
+.feature-headings {
+    text-align: center;
+}
+
+.section-headings {
+    text-align: center;
+    margin: 10px 0;
 }
